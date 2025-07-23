@@ -1,6 +1,3 @@
-# Flipkart-Mobiles-Dataset-using-SQL
-SQL-based analysis of Flipkart mobile phone listings to explore pricing, ratings, and product features across brands.
-
 # 📊 Flipkart Mobile Phones Data Analysis Using SQL
 
 This project presents an analysis of mobile phone listings from **Flipkart**, focusing on various product features, pricing strategies, ratings, and discount structures. The analysis was carried out using SQL to derive insights and compare smartphone variants from different brands.
